@@ -1,0 +1,3 @@
+-  Hi, I’m @AhmadElselmy
+-  I’m interested in Software engineering.
+-  I’m currently an undergraduate at faculty of engineering alexandria's university
